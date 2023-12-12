@@ -3,7 +3,7 @@
 Contained here are some demo scripts to help you understand how OpenAI can be used. There are a few setup steps you need to do (but not many).
 
 
-## Auto ML
+## Demo 1: Auto ML
 Script: [AutoML in Azure ML Studio](automl-script.md)
 
 This is a demo script to show your audience how they can use Azure Machine Learning Studio to start testing and validating their own hypotheses.
@@ -25,9 +25,10 @@ Make the payload JSON format, and paste the following "raw" body in:
 
     {"data": [[1,1,2022,1,0,6,0,2,0.344167,0.363625,0.805833,0.160446]]}
 
-    
 
-## Qualitative to Quantitative (qual-to-quant.ipynb)
+
+## Demo 2: Azure OpenAI Qualitative to Quantitative
+Script: [OpenAI Qual to Quant](qual-to-quant.ipynb)
 
 1. Ensure you have Python installed on your computer, including the modules below.
 2. Gain access to Azure OpenAI, then ensure you have created a GPT4 deployment inside it.
