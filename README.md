@@ -1,4 +1,4 @@
-# generative-ai-demos
+# Azure AI Demos
 
 Contained here are some demo scripts to help you understand how OpenAI can be used. There are a few setup steps you need to do (but not many).
 
