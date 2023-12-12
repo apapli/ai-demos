@@ -13,3 +13,14 @@ Contained here are some demo scripts to help you understand how OpenAI can be us
 You will need a handful of modules installed on your computer for this code to work. Just run the following command from the command line.
 
     pip install openai python-dotenv
+
+
+
+### For the API
+
+You'll need nodejs and the express & body-parsers frameworks installed on your computer. If you don't already, here are the commands to use, assuming you are using Ubuntu 22.04LTS on WSL (Windows Subsystem for Linux)
+
+    sudo apt update
+    sudo apt install nodejs
+    sudo apt install npm
+    npm install express body-parser

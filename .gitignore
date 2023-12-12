@@ -1,3 +1,4 @@
 # Specific files to ignore
 .env
 redmi6.csv
+node_modules
