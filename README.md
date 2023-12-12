@@ -5,10 +5,8 @@ Contained here are some demo scripts to help you understand how OpenAI can be us
 
 1. Ensure you have Python installed on your computer, including the modules below.
 2. Gain access to Azure OpenAI, then ensure you have created a GPT4 deployment inside it.
-3. Clone this code to your computer.
-4. Load it in your preferred IDE, for example VSCode.
-5. Edit the .env file with your Azure OpenAI credentials.
-
+3. Clone this code to your computer, and load it in your preferred IDE, for example VSCode.
+4. Edit the .env file with your Azure OpenAI credentials.
 
 
 ### Python modules required
