@@ -12,6 +12,8 @@ Contained here are some demo scripts to help you understand how OpenAI can be us
 ### Python modules required
 You will need a handful of modules installed on your computer for this code to work. Just run the following command from the command line.
 
+    sudo apt install python3
+    sudo apt install python3-pip
     pip install openai python-dotenv
 
 
