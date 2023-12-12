@@ -1,6 +1,6 @@
 # Azure AI Demos
 
-Contained here are some demo scripts to help you understand how OpenAI can be used. There are a few setup steps you need to do (but not many).
+Contained here are some demo scripts to help you understand how Azure AI (Machine Learning and Generative AI) can be used. There are a few setup steps you need to do (but not many).
 
 
 ## Demo 1: Auto ML
