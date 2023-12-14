@@ -30,6 +30,8 @@ Make the payload JSON format, and paste the following "raw" body in:
 ## Demo 2: Azure OpenAI Qualitative to Quantitative
 Script: [OpenAI Qual to Quant](qual-to-quant.ipynb)
 
+This demo shows you how you can take qualitative information (customer reviews in this case) and group the 
+
 1. Ensure you have Python installed on your computer, including the modules below.
 2. Gain access to Azure OpenAI, then ensure you have created a GPT4 deployment inside it.
 3. Clone this code to your computer, and load it in your preferred IDE, for example VSCode.
@@ -39,7 +41,11 @@ Script: [OpenAI Qual to Quant](qual-to-quant.ipynb)
 ### Python modules required
 You will need a handful of modules installed on your computer for this code to work. Just run the following command from the command line.
 
+    sudo apt update
     sudo apt install python3
+    sudo apt install python3-distutils
+    curl -O https://bootstrap.pypa.io/get-pip.py
+    sudo python3 get-pip.py
     sudo apt install python3-pip
     pip install openai python-dotenv
 
