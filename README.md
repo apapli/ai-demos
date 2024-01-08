@@ -26,8 +26,20 @@ Make the payload JSON format, and paste the following "raw" body in:
     {"data": [[1,1,2022,1,0,6,0,2,0.344167,0.363625,0.805833,0.160446]]}
 
 
+## Demo 2: No-code Azure OpenAI RAG Search via Azure
+Script: [AI Search](ai-search.md)
 
-## Demo 2: Azure OpenAI Qualitative to Quantitative
+This demo shows you how you can ask questions of your documents. It's perfect for searching over a large selection of documents and identifying hard-to-find and specific insights.
+
+This is one of the easiest ways to get started with Generative AI.
+
+Azure Components shown:
+
+1. Azure AI Search
+2. Azure Chat Playground
+
+
+## Demo 3: Azure OpenAI Qualitative to Quantitative
 Script: [OpenAI Qual to Quant](qual-to-quant.ipynb)
 
 This demo shows you how you can take qualitative information (customer reviews in this case) and group the 
@@ -48,6 +60,10 @@ You will need a handful of modules installed on your computer for this code to w
     sudo python3 get-pip.py
     sudo apt install python3-pip
     pip install openai python-dotenv
+
+
+
+
 
 
 Happy demo'ing, and feel free to submit suggestions via a pull request to make this even better!
